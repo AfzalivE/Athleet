@@ -1,0 +1,1 @@
+rootProject.name = "com.afzaln.athleet-server"
